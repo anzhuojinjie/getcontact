@@ -24,9 +24,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Desction:联系人工具
- * Author:pengjianbo
- * Date:16/7/14 下午4:15
  */
 class ContactsUtils {
 

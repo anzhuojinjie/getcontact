@@ -3,9 +3,6 @@ package cn.ft.apptest;
 import android.text.TextUtils;
 
 /**
- * Desction:
- * Author:pengjianbo
- * Date:2017/1/15 AM5:01
  */
 class ContactsBean implements Cloneable{
     private int contactId;//通信录ID
